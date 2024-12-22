@@ -1,0 +1,17 @@
+---
+title: Baslik 🚀
+author: Dr. Fabuloso the Fabulous
+description: Description
+---
+
+"<mark>Lorem ipsum dolor sit amet</mark>, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu **~~fugiat nulla~~** pariatur. **Excepteur** sint occaecat cupidatat non proident, _sunt_ in culpa qui officia deserunt mollit anim id est laborum."
+
+> Ekinler bas vermeden kor buzagi topallamazmis
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R4cHI4Ym1iY2dsdGZ2Mm9xb2NlODNmbGl4NDdhY3g0aWVvNjBtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOcv81XFtnGV2AEBU0/giphy.gif"/>
+
+```python
+def func():
+    print('hhe')
+print("hello world")
+```
